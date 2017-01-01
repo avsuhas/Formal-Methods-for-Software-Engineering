@@ -1,7 +1,7 @@
 # Formal-Methods-for-Software-Engineering
-Course Work on : 
+Contains Course Work on : 
 
-Concurrent programming
+Concurrent programming,
 Multi threaded Programming
 
 
